@@ -1,6 +1,6 @@
 create a new file with name `nodemon.json` with following:
 
-`
+```
 {
 "env": {
 "MONGO_USER": "Your mongo user name",
@@ -8,4 +8,4 @@ create a new file with name `nodemon.json` with following:
 }
 }
 
-`
+```
